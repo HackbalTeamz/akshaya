@@ -1,4 +1,15 @@
- 
+.servicetab {
+        background: #f3f3f3;
+    border-radius: 10px;
+        font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 1.42857143;
+   
+      padding-top: 35px;  
+}
+.serviceinside{
+   color: #000;
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
